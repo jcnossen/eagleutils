@@ -1,0 +1,1 @@
+xsd eagle.xsd /classes /language:CS /namespace:EagleXML /fields
